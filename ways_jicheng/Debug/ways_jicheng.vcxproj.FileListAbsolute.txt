@@ -1,0 +1,2 @@
+D:\study_source\cpp_code\test2021.3.5\ways_jicheng\Debug\ways_jicheng.exe
+D:\study_source\cpp_code\test2021.3.5\ways_jicheng\Debug\ways_jicheng.pdb
